@@ -39,8 +39,8 @@ Got it! Here's the updated version of the instructions based on the new method t
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/social-media-performance.git
-cd social-media-performance
+git clone https://github.com/TanishSingh192/InstaGuage
+cd InstaGuage
 ```
 
 ---
