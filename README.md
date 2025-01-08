@@ -1,6 +1,6 @@
 
 
-# **Social Media Performance Analysis**
+# **InstaGauge Insights**
 
 ### **Overview**  
 This project is an analytics module that evaluates the performance of social media posts by calculating engagement rates and generating actionable insights.
